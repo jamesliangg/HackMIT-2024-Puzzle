@@ -1,0 +1,9 @@
+Encoded Word: 伤旱考扶芙旬忣佗屼芏灳劳圶芙犴孜夹肎译圹奾奼折存动刑乓扡芬围
+Input: aeogdi
+Feedback: absent,correct,absent,absent,present,absent
+Encoded Word: 纩刚关朵百団尾芬华向私邧阮尽卵报守邵仵而奸纩钌帆彶完汝丟汎尥
+Input: aujbiy
+Feedback: correct,absent,absent,absent,absent,absent
+Encoded Word: 伢伫圴妙汤呐扤圫讲华犳吋芽早伢奻庆芏弎夙形吓阳困芊传氼妙寻创
+Input: plmads
+Feedback: absent,absent,absent,correct,absent,absent

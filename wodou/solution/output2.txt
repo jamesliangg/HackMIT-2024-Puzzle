@@ -1,0 +1,411 @@
+Encoded Word: 伤旱考扶芙旬忣佗屼芏灳劳圶芙犴孜夹肎译圹奾奼折存动刑乓扡芬围
+Input: aeogdi
+Feedback: absent,correct,absent,absent,present,absent
+Encoded Word: 纩刚关朵百団尾芬华向私邧阮尽卵报守邵仵而奸纩钌帆彶完汝丟汎尥
+Input: aujbiy
+Feedback: correct,absent,absent,absent,absent,absent
+Encoded Word: 伢伫圴妙汤呐扤圫讲华犳吋芽早伢奻庆芏弎夙形吓阳困芊传氼妙寻创
+Input: plmads
+Feedback: absent,absent,absent,correct,absent,absent
+Encoded Word: 芍芐伕夶近彻伏阵旱饫钌玐纡余阯把后伐困匟军奾声弚乫抑圲兆灳权
+Input: daptku
+Feedback: absent,absent,absent,correct,absent,present
+Encoded Word: 纩怄远纪邯冴钌合伯牞帇名妀利弃礽乔评地扫芭尖驰寺走呛仹行芹纣
+Input: zedhsc
+Feedback: absent,present,correct,absent,correct,absent
+Encoded Word: 佤寻饪乱忍妅乔老会吃芹屿那讷弙汎玏阰扛伸氖声吟刓床芜伀芖吊芋
+Input: xfrjhe
+Feedback: absent,absent,correct,absent,present,absent
+Encoded Word: 屁汢汤驳扡妫存妃匢屹妈时伯妇希汙伺芽爷驴圬远呗忧戍局讷妈圶択
+Input: tnkgot
+Feedback: correct,absent,absent,absent,present,absent
+Encoded Word: 亥伀劳乩伽灲作孝朱局卵丞岃批旷妍伤扜奼纡诈羽芒扮仹兇阮励串附
+Input: ydirtc
+Feedback: absent,absent,absent,correct,correct,absent
+Encoded Word: 纺氼冲冴芯米芗诈夅缶邪仯圷防此忍庅仰交凼扢衣仸利気妁岂纽吻否
+Input: ntadit
+Feedback: absent,absent,correct,absent,absent,absent
+Encoded Word: 扤尘伺邯疗叒朼戌朿伜冷纡划邠许任伂尘弃串氖还份吾存旷伔困皂牝
+Input: lfeduy
+Feedback: present,absent,absent,correct,absent,correct
+Encoded Word: 爷劤闷汌旷扱驳孛彵际妩自圬凫曳奼纥纹字仯孚朾爷伓花妫芍讽抖军
+Input: wwrpqj
+Feedback: absent,absent,correct,absent,absent,absent
+Encoded Word: 邢汣农别吒耳局争住劧妀串阻忈彻君彴芏仿怀圵灯抖伟夅社厾伙有异
+Input: ywohvq
+Feedback: absent,absent,correct,absent,absent,absent
+Encoded Word: 仳防诈吨克讴佑夶牝伣伍刎免佑肉吔肌抖怆纬产邩免她危改旮邞屹池
+Input: nioobg
+Feedback: absent,correct,absent,absent,absent,present
+Encoded Word: 附刔屽邨甪癿伽圪丟行权汜伓宏妊传吟牞扞旭级役佛共邬仲庆邻免伌
+Input: xetgkg
+Feedback: absent,absent,absent,absent,absent,correct
+Encoded Word: 抄佢廷异忧仵钌芦连圴戎驯诉囡伤岀许针缶仱红芄癿饫劤似邤抖纾邯
+Input: fovkck
+Feedback: absent,absent,absent,absent,correct,absent
+Encoded Word: 伎忘轩気芌朹伇纹汕刐吏危呓朹伒吏地合肛张伕弚邰向佤阬似好针违
+Input: qlgjeo
+Feedback: absent,absent,absent,absent,correct,absent
+Encoded Word: 园団刏阴仸讴男驮阧気纵伝吒同疗仿芹尽自汤关闲声伃阧安圬技估肌
+Input: bigvou
+Feedback: absent,correct,present,absent,absent,absent
+Encoded Word: 驰压朴价仵伥吞我导纣两牝把闲讴际圲花伏创屸邦导成劧纹伣兑呖诀
+Input: srahap
+Feedback: absent,absent,present,absent,correct,absent
+Encoded Word: 芆呈任肛苏邦字夛她华厍孜吐汋纵伅际导华凼汚劲纬圱圬老阨伶妩汔
+Input: datisp
+Feedback: absent,correct,absent,correct,absent,absent
+Encoded Word: 抒佢邧怆弎庅仾纵芭吨弃犵缶阰池聿阦伺玎再压芆众光卋刓亦朱钊劳
+Input: rzbrkd
+Feedback: present,absent,absent,absent,absent,correct
+Encoded Word: 芋驱尗苍余凨此肍玐刓努匡杀应场妖江奾帐朿劤考弃朹纩际讻乓讶伥
+Input: zacbzs
+Feedback: absent,correct,absent,absent,absent,absent
+Encoded Word: 伉改讼忓刎判汓礽设戒圶弟亘伯汓妁犱汏夻邦圱纵邻芖芗汓驯宆抖祀
+Input: iebwgq
+Feedback: correct,absent,absent,absent,absent,absent
+Encoded Word: 汣伖驰劳伍伥讹吏乩访运厍驰衣许导汜邪在余旨县纱缶纲吆祀时讷肌
+Input: wqrsxr
+Feedback: absent,absent,correct,absent,absent,absent
+Encoded Word: 丽朷阪传扡肌厍呆衣讼妙妄伦芽志厽努死朱阨匢吸努凪仹纵宇抄再乫
+Input: gexgmy
+Feedback: absent,correct,absent,absent,absent,absent
+Encoded Word: 忕孙芑耳删犳吟抑名折扰吔扚邰会即式权驱朽朽纳死妗芗汌扫吧在叒
+Input: rltpwl
+Feedback: absent,present,correct,absent,absent,absent
+Encoded Word: 丢吹吓孛佐吃志诉传你仹折朷伽诊驯成肐扱圴讽邱亩囡扛役扠冱尾厊
+Input: qptsst
+Feedback: absent,absent,absent,absent,absent,correct
+Encoded Word: 佣夸弛呓伒纫妫妓如肛寿交序汆扡邢汙夙纤牝别吗字危圴亦阰如屁志
+Input: felmed
+Feedback: absent,absent,absent,absent,absent,correct
+Encoded Word: 吊朷否屽串有克刐甸仸吏体弃阩芹佗伒饫犴次朾彶芹甶牟祀自邨价驯
+Input: vqokqv
+Feedback: absent,absent,correct,absent,absent,absent
+Encoded Word: 执启努诀朴众伬刖屿岀钊仰玑报冲识级则克抖吞吂论屽讻夛汎纺尖阳
+Input: jscutp
+Feedback: absent,absent,absent,correct,present,absent
+Encoded Word: 弄伟扦刘张灲级呕芹闷夹刓忌圷回吁妗伏芳汗圶吹巟忘弚尿扪叿讹估
+Input: szraob
+Feedback: correct,absent,absent,absent,absent,absent
+Encoded Word: 亩芋仾灰判戍劫扜抓讲压妪芆寻伓仴妁戒庇乩安曲但孝尿进聿汘弄仱
+Input: rlusaf
+Feedback: absent,correct,absent,present,absent,absent
+Encoded Word: 奻阧讹芉闰驳屺毎寺伫朳芉朶扱忖毕花乱伞劥圭汔妆芹岁刖字佃祀证
+Input: bwksvv
+Feedback: correct,absent,absent,absent,absent,absent
+Encoded Word: 字阳屿团怄汙即伦氼耳驯企妓呛忈吊价员轩考芏凨妖奻字初当圷伦回
+Input: brwurh
+Feedback: correct,present,absent,absent,absent,absent
+Encoded Word: 夵厽米丞但床刚产汔扨岁床邦岁匡玐宆驯层穷汗朽怅冷任圳伏攻红孖
+Input: ebndxd
+Feedback: present,present,absent,correct,absent,absent
+Encoded Word: 纹屻优兇形怃伔吒忍戍厽此壳佤扟灯戌至阧阯伆因则吟报层夙体证毕
+Input: azkvty
+Feedback: present,absent,absent,absent,present,correct
+Encoded Word: 扜那年好阭亙伦企纲屰妊决乩肘亙圩你仸夸伌别场约呛佐忓灰吞汓伝
+Input: ylzdze
+Feedback: absent,absent,absent,absent,absent,correct
+Encoded Word: 牞夺肛寿伇癿圱阵乓伬识企礽仾汆伥扢佤纵妫仳邩励吊网约亨呗圫庄
+Input: iazhcg
+Feedback: absent,correct,absent,absent,absent,present
+Encoded Word: 圮呛助串彵纫肚呒圱纷朼扝技伐囟秀奼伧固弜阻考先纨吇饨伆驳妫尧
+Input: vicfjy
+Feedback: absent,absent,absent,absent,absent,correct
+Encoded Word: 阫邬攻屾孜庅伧休先弙伔严囡轩汢団孚创劳汚竹压妖刑邪佢驳芳伒伖
+Input: hrwltr
+Feedback: absent,absent,absent,correct,absent,absent
+Encoded Word: 价仮玐姊阪光屹阵寺宇还圲而犸弄芬汚芇呔华邦吾囡姊收尽氖层犵芏
+Input: kaxvou
+Feedback: absent,correct,absent,absent,absent,absent
+Encoded Word: 扤阫闷伂有圹批朱伍戎妥那汝利劦伥驰违孚秀伥屾呀朼宇弟众丢讳屺
+Input: micauw
+Feedback: absent,correct,absent,absent,absent,absent
+Encoded Word: 奸宅祀县夸孖朽邥囟夹私汕仴回凩休汒伆时走癿汏弃妈奸叿弟屁甪邨
+Input: sqxynn
+Feedback: absent,absent,absent,absent,absent,correct
+Encoded Word: 兆犴纥共改圲老呛尖仵牟犸饩汓张旨纸饨纤究固邠则压充先劦社帇纤
+Input: jebohx
+Feedback: absent,correct,present,correct,absent,absent
+Encoded Word: 扤把启妇安犲串芹朾妍夼氘伙扱肘权怆技阰免份庅扞扶秀间仼疗走刚
+Input: nlosxn
+Feedback: correct,absent,present,absent,absent,absent
+Encoded Word: 奼芳芽伄灱甪刓夷扟阦肛伓芄扮吐仰劫老导邤芬守吁宏妖讹地吧朴忏
+Input: dpcnre
+Feedback: absent,absent,absent,present,absent,correct
+Encoded Word: 呗卋屺阳忚并弟劣汣伎抚衣犷成呔份位囟伛尗尽折证阱汌汙伞完亩吏
+Input: rlbhre
+Feedback: correct,absent,absent,absent,absent,absent
+Encoded Word: 农阵劫怅仸伢阰彴仳汕戒场阳吾自衣再妗怀却关安肖安伜园汝各伧芅
+Input: nstqmr
+Feedback: absent,absent,correct,absent,absent,correct
+Encoded Word: 何屻吊怅仲伡传存阭冲君至芖进孝伌曳孜抚讵协伡忌判时男犱创丽刚
+Input: wlcoet
+Feedback: absent,absent,absent,absent,absent,correct
+Encoded Word: 伛农夸局肌匟钌冰朾圹批扝执年巟竹肋论纲纤诈朶朹弄怆抗仾扢叒扶
+Input: jjtexs
+Feedback: absent,absent,absent,absent,absent,correct
+Encoded Word: 夶癿孚伎饨汣凼汘交肌巩纲冴丽怀吸层吻卋评改纫奻乱抄报佤伀纥识
+Input: fkupnk
+Feedback: correct,absent,present,absent,absent,absent
+Encoded Word: 尿伆刘圵衣阱乫壳执汛执困忛抖连朿兵邑邟佃吧孙汙寿间妀伧还刎全
+Input: ratodb
+Feedback: correct,absent,absent,correct,absent,absent
+Encoded Word: 夵伯冱钌肠巩匡吟全夸伉住芍乱扞陈邥她但邩仸汐呛伇劤决伫汓疗抒
+Input: mnvptr
+Feedback: correct,absent,absent,absent,present,absent
+Encoded Word: 芓丽初町忛圳压严岁肉佑协扚伔邩权我各邬汕关把妩后苏伡妆伟皂却
+Input: kshyoi
+Feedback: absent,absent,absent,absent,correct,present
+Encoded Word: 肎劤初迟抑寻汔伫癿诀芆怃邱闰列好住妫报全匈屹屁宇汐阰吹肝甶邢
+Input: zacgod
+Feedback: absent,correct,absent,absent,absent,absent
+Encoded Word: 伈员旭寿男肌守投庄朲乩抛伔含刕伴牞冲町屻那汙呔伌乩吇犵彵芽改
+Input: rslkjm
+Feedback: absent,absent,correct,absent,absent,present
+Encoded Word: 刓邯伩层伞尽导伉肌戏肠伉库呈众多杁男光纤伸邞仿收邨间刓伡厾邮
+Input: loxptd
+Feedback: correct,absent,absent,absent,absent,absent
+Encoded Word: 汏饫汆汐忙芌抛伺各癿灯扢亘劲否而纥县妇芋奾扫呆吗阦岃当吔邰忌
+Input: vjdpaq
+Feedback: absent,absent,correct,absent,absent,absent
+Encoded Word: 肍折驮穷旨寻肛角邠旷耳妫返旨阫厽缶层讻玏汗围设应吗私吒纳词刐
+Input: cfmilo
+Feedback: absent,absent,absent,absent,correct,present
+Encoded Word: 死纶伺亥网江伖识纪匢廷乒伙先吖识芐伧延肉汓吸快阪屽伸曲佤团仹
+Input: ikenez
+Feedback: absent,absent,present,present,correct,absent
+Encoded Word: 夵仮阵抛汒阵邟否克余扨呖折灳邵饿邯利奸呜局汆尧邥听伢似劲异寺
+Input: xpoimq
+Feedback: absent,absent,correct,absent,absent,absent
+Encoded Word: 犳苍免奼曳次字远死共池乓县癿吐玎许忋私删朴仮抄纪汓仴芃刚弄吨
+Input: hcidjk
+Feedback: absent,absent,absent,correct,absent,absent
+Encoded Word: 皂刐应芅乨汆吾纬夷肘仸位纾任伉忋杁驰判芬安好妖式如技汚伫厾创
+Input: mokcxc
+Feedback: absent,correct,absent,absent,absent,absent
+Encoded Word: 全扫圴远岁厾有呗呆卵床伒汆否佥呗合屼论创氼仴屻兵朾如圸肘苍饫
+Input: lhpsev
+Feedback: absent,correct,absent,absent,absent,absent
+Encoded Word: 庄秀伺局向町犱匠亨闷亨缶屽帆扡考劳吧肘凩冱违朵怅牝缶阪妥异执
+Input: gunutw
+Feedback: absent,correct,absent,absent,absent,absent
+Encoded Word: 阻囡创芇劲抗邢伛床肓妆驴纺别尘芎投邯批阭芃驳吕伶忕诉亘佣芭级
+Input: xopivg
+Feedback: absent,absent,correct,absent,absent,absent
+Encoded Word: 技吇伜亚远夷伧凫乱邞阧忣伎任冲兵华汛伂尘丟凨呐邤收吸妁芇肖两
+Input: xrajxx
+Feedback: absent,present,correct,absent,absent,absent
+Encoded Word: 龟合扙夅邱找庄屰纸甸厍芇戎妊呐冰阦邠邱龟尘孖找朷伇早串含邪妄
+Input: vugqjz
+Feedback: absent,correct,absent,absent,absent,absent
+Encoded Word: 执奺励玑究叿伏圪伝权志讲伩则含纯设奼佥朲吕厾屁壮礽纹岁纫任氖
+Input: gfwtpw
+Feedback: absent,present,absent,correct,absent,absent
+Encoded Word: 吔希亨邯讳在団呕兆戌抓杁厍共伪仼攻伜扱邩圬伺妩忣园屿休扝抒祀
+Input: kxrihl
+Feedback: absent,absent,correct,correct,absent,absent
+Encoded Word: 吒压爷芬帐夅饪纬妁别找汌厌怃免仴汒汕邬妫圭钌老闰纡圸亙芭妅屻
+Input: vrvxye
+Feedback: absent,absent,absent,absent,absent,correct
+Encoded Word: 肓叒刓旯抛劥芬肛呐伀兆肉肓帇犴劦次批汚牟异屽忛迟圫仮寺志卵尾
+Input: jhbewz
+Feedback: absent,present,absent,correct,absent,absent
+Encoded Word: 纣扭戎弃则汎作吾牞巫妙夅妁妨呐旬夸即犲阵朲亨讲肓氼妨夹钊陆肋
+Input: hmjekk
+Feedback: absent,absent,absent,correct,absent,absent
+Encoded Word: 旮汊汛圸老芉妈聿弟阪屿彴当局死庅肍怄扡优兆体苍固扚尾冲夅饩件
+Input: dscnrv
+Feedback: absent,absent,correct,absent,absent,absent
+Encoded Word: 圶师芬汚伀华芆估防抄汒丠含乔床刑伴孝汔判佗庅伥芏讶妓伤玏扶仯
+Input: nfsbuy
+Feedback: absent,correct,absent,absent,absent,absent
+Encoded Word: 屺驱佛伞肎亘希戒邪床划伪此伙饩阱纯怆羽甸动耳存判县皂纤芹证伅
+Input: tbfowp
+Feedback: absent,present,absent,correct,absent,absent
+Encoded Word: 厌刚芒否朷汒吨芙多亊吴汙毕弛仲阰旷还孙汒伓尗吞玐吕芹夛扝众团
+Input: czbfqd
+Feedback: correct,absent,absent,absent,absent,absent
+Encoded Word: 芗呕志买妪饭邧伝犲妅夛乒仰伆朵江员妫扢并乒有怅报伪阴忕库曲芊
+Input: zlzaga
+Feedback: absent,absent,absent,present,correct,absent
+Encoded Word: 社驯伺仸忋妫似弜圯凫份伺压则优返伬邨伸伙吸杀你吏朱床灰尥吖夷
+Input: vrqdfg
+Feedback: absent,correct,absent,absent,absent,absent
+Encoded Word: 纥呛邑名扝伺考阰含邱汑佥匠希改同纫场囡体阴忓还此充怄邤団伡尽
+Input: sptbqk
+Feedback: absent,absent,absent,correct,absent,absent
+Encoded Word: 阩件仹扰刓朱庇芙机呆忓屁导妫芳件利扥忘宋凼闷努邡屁圪妨低戌伀
+Input: vozmxg
+Feedback: absent,correct,absent,correct,absent,absent
+Encoded Word: 男岀灲忚弃伃吊纽劫吹芓伡弛她朻讷亘芏饪陆伈吞远戎佛呗讹宏汎伉
+Input: chjehi
+Feedback: absent,correct,absent,absent,absent,absent
+Encoded Word: 丢邬肓别犳份伫决扩刐应芌各邤伎伝充劤估吴芋此戒至如灱伴却妈仴
+Input: sfknel
+Feedback: absent,absent,absent,present,correct,absent
+Encoded Word: 灲尗伬汙芊技伏有芜批妥式圲围在共伕秀佃伺牞志芽伢抛评阯屿纨阩
+Input: jzzzov
+Feedback: absent,absent,absent,absent,correct,absent
+Encoded Word: 夛芎译妙份仯宆阨伀妀姒屺朲吅朷旬并伢孛怃伡汎佥伛团扪苏孜佤汆
+Input: gnqdtv
+Feedback: correct,present,absent,correct,absent,absent
+Encoded Word: 纪邠壮阳妇乱劤屹光汋匢択困冰吧妊弚阮宏纹汕肖阻刘犸夷肎阭怆呒
+Input: yryfhw
+Feedback: absent,correct,absent,absent,absent,absent
+Encoded Word: 缶厍危连序讽设批阧伆争伙妄利弙吸肠芉阮讴向邡犵连邵产扬劳伉划
+Input: drmxbv
+Feedback: correct,absent,absent,absent,absent,absent
+Encoded Word: 芇邵汤吾扟驯妪佗伩饭固汙次芭快休会芹伟压伪员尧励伊甸尧纵宏忏
+Input: xondte
+Feedback: absent,correct,absent,absent,absent,present
+Encoded Word: 伀住阩邱弄忚扰伥礽牞邦床何圶吕进圶吗伯但免权托肛忛扱阦库扟芉
+Input: kknrfh
+Feedback: absent,absent,correct,absent,absent,absent
+Encoded Word: 圬忙尿纷弜划朹评驮扡奼孝闷夹延妗夼伣饭价芇却岀进芍毕乔局旯名
+Input: tevwkn
+Feedback: present,correct,absent,absent,absent,present
+Encoded Word: 农阴忔投两妍阬寻匟壮式返合仰岁连汜圲县呓执伜完伧师体妄列阱扙
+Input: dlwpfw
+Feedback: correct,absent,absent,absent,absent,absent
+Encoded Word: 毕朱朲伩场考芋字团声名附轩收但汌伒劤圪汜妓阩朹守阫奸吃匠却远
+Input: axcras
+Feedback: correct,absent,absent,present,present,absent
+Encoded Word: 亚纬伺纵刑戍巟汕夙圲串凨吏纤扱纤厌饮伦弜扣孝阻夺屹怅匈汕妪圩
+Input: pmyahl
+Feedback: correct,absent,absent,present,absent,absent
+Encoded Word: 孝伌阧厌芹纫严囟卋肍気究汕迟纽先芜肝邱寻妁忘扜纸妃寿刖县邑仼
+Input: xnfprw
+Feedback: absent,absent,absent,correct,absent,absent
+Encoded Word: 缶妈苏劧皂汏忘姒犸君宏在劣屁纹批劤忏伍芓庇凪芏肝吇夹阰呐钊钌
+Input: xdvrjk
+Feedback: absent,absent,absent,correct,absent,absent
+Encoded Word: 寻曲邑汘纲因汔则毕扜孙甸劧呀任朴诈屼帐仹吖妈运缶厾交启尿耳扬
+Input: fnvpak
+Feedback: correct,present,absent,absent,present,absent
+Encoded Word: 驳妃彴次张芜吓缶余厍纸犳关乩扠劧芳邡先伄仱呒圩伎报囝冰芙邩尽
+Input: uleskk
+Feedback: absent,absent,present,present,correct,absent
+Encoded Word: 诀扭玏兑声吋两寿妈肓宇执冰钊芯気岁妩价伎诊伕厍伂弚汜肖吻犱邠
+Input: judfft
+Feedback: absent,absent,correct,absent,absent,absent
+Encoded Word: 吉低扫针饩如刎会肎诀尽驴连吸伃军呈附仿成杁朶低伖纡围讲岁伬忙
+Input: ebnzxx
+Feedback: present,absent,correct,absent,absent,absent
+Encoded Word: 伙围玏抚扭汢别叒旮圯朻姊吴芌名译犱弛纾芙纵尧因陆妃汤冰妗刑叿
+Input: olzuce
+Feedback: absent,absent,absent,correct,absent,correct
+Encoded Word: 亚诀彻吐抓旨卋伍协朿邱佤卋宆吹库厌岁抛伒仾场找厌肍甸死朶弎扨
+Input: isavrr
+Feedback: absent,present,present,absent,absent,correct
+Encoded Word: 巟伞夙考肋交伟彶层圮佗丠芑两决吋妪忕宆如纹共守找怀厊导改汘场
+Input: xdtbrq
+Feedback: absent,absent,correct,absent,absent,absent
+Encoded Word: 邞怄抒钊吋巩饮吕卵阮妃伜冷杀全纫甸妫阩伕弄阫吔饨她住帆邮肚刎
+Input: pxszpf
+Feedback: correct,absent,absent,absent,absent,absent
+Encoded Word: 朼尾地寿诈阴丞攻机曳祀犷芍希汙圶汢饭驴妥彴体把卋改乓纫伧完何
+Input: nvucbd
+Feedback: absent,absent,absent,absent,absent,correct
+Encoded Word: 约冴巫仰进阮华芆庄许刓妇芐走讳式男划孖共夺还努扫芊圯阶伸冷奺
+Input: mehicz
+Feedback: absent,absent,absent,correct,present,absent
+Encoded Word: 华岂芄呐伄吒励伴丞钉吇有陆邪呖牞甶声托呕伡伕伴乔佤扟岀忌仴凪
+Input: tspfqq
+Feedback: absent,absent,absent,correct,absent,absent
+Encoded Word: 兇呆纾祀忋匢犸抖朿伕伟低社芊有伃仮仼抒帇伔肚级団伂玑投她芜在
+Input: ugbcdr
+Feedback: absent,absent,absent,correct,absent,absent
+Encoded Word: 技阩衣伃阿朳纪园弛夙抖圫缶评仰佣许圬邮合后报夷呛癿犴汙邑汙考
+Input: xvxtrd
+Feedback: absent,absent,absent,correct,absent,absent
+Encoded Word: 抑优呛呜乑汏爷扶乩阰吊芽彵怄戌朹扮朾报伕则肠伽圮邰甸尥佑尘忓
+Input: ndlcyl
+Feedback: absent,absent,correct,absent,present,present
+Encoded Word: 含吖夅伂吞刏技巫阵励朾充吞考姒呗阭伔肓权囡花份志凫劲厊别弄吃
+Input: jivtps
+Feedback: absent,absent,absent,correct,absent,present
+Encoded Word: 耳囡层宆执吐吅纬协低州巟芯宅肠忙卋邱尽芊刓妁则困宇启任扡肐芆
+Input: einptl
+Feedback: correct,absent,absent,absent,present,absent
+Encoded Word: 姊划冲纽耳伅呈亨阵芽巩邯邱玐行吒吒亩违伎闲企刏余驴向扬佗巩亘
+Input: wyevun
+Feedback: absent,absent,present,absent,correct,present
+Encoded Word: 囟厾价抄别弎団苍光牟芋伕孚际农冷传朹弎自伦芓妗扜灯扬此技汒佤
+Input: gxktme
+Feedback: present,absent,absent,absent,absent,correct
+Encoded Word: 妥牞灱屼苏权吴吕妥肘汒疗怄曲饨杀饨邱伕抒呓凼囟纹帆亚老抖纺肠
+Input: eoxokk
+Feedback: absent,present,absent,correct,absent,absent
+Encoded Word: 低军灳批仮芗众邰诈纽邩姒初纡克孛劤收附纹讹伟肐劳囟伃芖饭佗苍
+Input: daumqh
+Feedback: absent,absent,present,absent,absent,correct
+Encoded Word: 亚刓纶助屺呆全回驯刘仯驴严讹况这吖扬员芭彴社告廷众戎讴场怀君
+Input: gbobxo
+Feedback: correct,absent,correct,absent,absent,absent
+Encoded Word: 呓芍冲犴癿吔劦次圶伍位杁壮初岁汍行芦肚花汔甶纷伜丟床朷圪访宅
+Input: bexaur
+Feedback: absent,present,absent,present,absent,correct
+Encoded Word: 尗邨抓弄吹圵如芃合夶君宅宇尘圬匡丠刕尥佃共扰択吋尾严叒邨伂聿
+Input: aesqol
+Feedback: present,absent,absent,absent,correct,absent
+Encoded Word: 争判传纯凨危玎角弙休克价汘决疗社妀弜亦医朲这吨汎亩亘苏闷仴灱
+Input: gvswxr
+Feedback: absent,absent,correct,absent,absent,absent
+Encoded Word: 汊彻凼讼扠讷严局戏扙网吉机作阿亚汑呐自刐芐庅抄仵守扣邨诀钊纾
+Input: lbnkxd
+Feedback: absent,absent,present,absent,absent,correct
+Encoded Word: 戌当屼妓伍农共肌乫扥纽汌犱妙祀讼邦伶投圹吸吁弟役园芙阧讽扰阱
+Input: rrupel
+Feedback: absent,absent,correct,absent,absent,absent
+Encoded Word: 玑希芭旭护层杁吂汕玐芐吨汘刘亦竹缶旷抛伌亘作肉叒夹犲佃弟尗芉
+Input: csepiy
+Feedback: absent,absent,absent,absent,correct,absent
+Encoded Word: 甶佣冴劳县奻收圳戎癿希邢充芜刎县仸芏択州团芑把早圪肐汔乓冴米
+Input: vnyeeo
+Feedback: absent,absent,absent,absent,correct,absent
+Encoded Word: 君妅亦曲姒驯芅张忙再证扫芑乫厽伖找阥邡伪羽她间凩吔快圹汏肉扭
+Input: hqcoej
+Feedback: absent,absent,absent,absent,correct,absent
+Encoded Word: 阱纷而投佢伪评氖屰托匟围延汘芳讳创丽忚伟邬抄朸亨忏助芅时芜伓
+Input: rzpmle
+Feedback: absent,absent,absent,absent,correct,present
+Encoded Word: 芏汔巩肖牟论囝讽伒纪县曲汙缶饩忧屻尘尿旬州纵芐走回伧乨纽牞刑
+Input: vcsdes
+Feedback: absent,present,correct,absent,present,absent
+Encoded Word: 奺佥在屰讻饩杁托姒附纣余启芏犷汌乨秀你守伒怄吀肖阥扙宅邻叿扣
+Input: ywugsv
+Feedback: absent,absent,present,correct,absent,absent
+Encoded Word: 邰圸创朷芭伔成阨忘仰呒机尥地屺纤厍呈邪扦孙匟住扟汘尖忧员扚冴
+Input: ocjqsq
+Feedback: absent,correct,absent,absent,present,absent
+Encoded Word: 秀纪吅伪饩住仱驮却丽圹屸芑诊姊旬団再抚孛异扞纺讳刎芃住肓圷庅
+Input: stamyf
+Feedback: correct,absent,absent,absent,absent,absent
+Encoded Word: 芉乨扝告守汤刖肖抚穷阳圴阯吇孙应冱汎芖巩夵阰帐驴朷吋汍伽仾优
+Input: whyuvy
+Feedback: absent,correct,absent,absent,absent,absent
+Encoded Word: 冷犷异汋词纣池秀毎囝诈阮刏伡扨全邯団仳兆伦合围驮汐诊全伆犳时
+Input: bdrrzi
+Feedback: absent,absent,correct,absent,absent,present
+Encoded Word: 丢在吊延任朼好讶尿争扰孖帇防先旬否孜汆扰形匈吀吅尾妥屾刚戌还
+Input: cehyus
+Feedback: present,absent,absent,absent,absent,correct
+Encoded Word: 灳汎吹邟吨关妁匢讼纡妀针而护忘刏君肖尗妪邯吔奺阿助钌仰孖忔役
+Input: vzooez
+Feedback: absent,absent,absent,correct,absent,absent
+Encoded Word: 呆奻圷氖评伤找帐军丽仳丟宆钊向扪阿扡诀妅芃产汚妆年夙芦伅护刎
+Input: faidax
+Feedback: absent,absent,present,absent,correct,absent
+Encoded Word: 忧吸尽则启奸助饪扬把纲考成听肖词佤行权汙屻妁亥纳刕匈汎扰讶妈
+Input: rohdts
+Feedback: present,correct,absent,absent,absent,present
+Encoded Word: 芳军伧序乓轩妀何刑忛诀纥君至刚邬饫汜识芊希犴收判疗犳夹肚因忓
+Input: nbcrvv
+Feedback: absent,absent,absent,absent,correct,absent
+Encoded Word: 玑奼牟多肠屹忈把伧気讽伬伇妓安犷闲阻伢芳仱运守孛疗灱自利圪灱
+Input: bhnyyi
+Feedback: correct,absent,absent,absent,absent,absent
+Encoded Word: 全犴优亘邪阥自気卵尧饭尧伞抄帇汤伸犵圮毕余讻众亩闷份凪张芕邧
+Input: hctkay
+Feedback: absent,correct,correct,absent,present,absent
