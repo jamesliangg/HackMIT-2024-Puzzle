@@ -56,7 +56,7 @@ async function resetPuzzle() {
             uname: "jamesliangg_cb264c81" // Be cautious with sensitive data
         };
 
-        const response = await fetch("http://localhost:3000/api/puzzle/get", {
+        const response = await fetch("https://library.hackmit.org/api/puzzle/get", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"
