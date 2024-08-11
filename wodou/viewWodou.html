@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Encoded Word Navigator</title>
+    <style>
+        .table {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 10px;
+            font-size: 24px;
+            text-align: center;
+            margin: 20px auto;
+            max-width: 200px;
+        }
+        .controls, .filters {
+            text-align: center;
+            margin: 20px;
+        }
+        .info {
+            text-align: center;
+            font-size: 18px;
+            margin: 10px 0;
+        }
+        .feedback span {
+            display: inline-block;
+            padding: 5px 10px;
+            border-radius: 5px;
+            margin: 2px;
+        }
+        .feedback .absent {
+            background-color: grey;
+            color: white;
+        }
+        .feedback .present {
+            background-color: yellow;
+            color: black;
+        }
+        .feedback .correct {
+            background-color: green;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+<input type="file" id="fileInput" accept=".txt">
+<div class="filters">
+    <label for="correctFilter">Correct >= </label>
+    <input type="number" id="correctFilter" min="0" value="0">
+    <label for="presentFilter">Present >= </label>
+    <input type="number" id="presentFilter" min="0" value="0">
+    <button id="applyFiltersBtn">Apply Filters</button>
+</div>
+<div id="tableContainer"></div>
+<div class="controls">
+    <button id="prevBtn" disabled>&larr; Previous</button>
+    <button id="nextBtn" disabled>Next &rarr;</button>
+</div>
+
+<script>
+    const fileInput = document.getElementById('fileInput');
+    const tableContainer = document.getElementById('tableContainer');
+    const prevBtn = document.getElementById('prevBtn');
+    const nextBtn = document.getElementById('nextBtn');
+    const correctFilter = document.getElementById('correctFilter');
+    const presentFilter = document.getElementById('presentFilter');
+    const applyFiltersBtn = document.getElementById('applyFiltersBtn');
+
+    let entries = [];
+    let filteredEntries = [];
+    let currentIndex = 0;
+
+    fileInput.addEventListener('change', (event) => {
+        const file = event.target.files[0];
+        if (file) {
+            const reader = new FileReader();
+            reader.onload = (e) => {
+                parseFile(e.target.result);
+                applyFilters();
+                if (filteredEntries.length > 0) {
+                    displayEntry(0);
+                    updateButtons();
+                } else {
+                    alert("No valid entries found in the file.");
+                }
+            };
+            reader.readAsText(file);
+        }
+    });
+
+    applyFiltersBtn.addEventListener('click', () => {
+        applyFilters();
+        if (filteredEntries.length > 0) {
+            currentIndex = 0;
+            displayEntry(0);
+            updateButtons();
+        } else {
+            tableContainer.innerHTML = "<p class='info'>No entries match the filters.</p>";
+        }
+    });
+
+    prevBtn.addEventListener('click', () => {
+        if (currentIndex > 0) {
+            currentIndex--;
+            displayEntry(currentIndex);
+            updateButtons();
+        }
+    });
+
+    nextBtn.addEventListener('click', () => {
+        if (currentIndex < filteredEntries.length - 1) {
+            currentIndex++;
+            displayEntry(currentIndex);
+            updateButtons();
+        }
+    });
+
+    function parseFile(content) {
+        const lines = content.split('\n').filter(line => line.trim() !== '');
+        entries = [];
+
+        for (let i = 0; i < lines.length; i += 3) {
+            if (i + 2 < lines.length) {
+                const encodedWord = lines[i].split(': ')[1]?.trim() || "";
+                const input = lines[i + 1].split(': ')[1]?.trim() || "";
+                const feedback = lines[i + 2].split(': ')[1]?.trim() || "";
+                if (encodedWord && input && feedback) {
+                    entries.push({ encodedWord, input, feedback });
+                }
+            }
+        }
+    }
+
+    function applyFilters() {
+        const correctCount = parseInt(correctFilter.value, 10);
+        const presentCount = parseInt(presentFilter.value, 10);
+
+        filteredEntries = entries.filter(entry => {
+            const feedbackArray = entry.feedback.split(',');
+            const correctMatches = feedbackArray.filter(f => f === 'correct').length;
+            const presentMatches = feedbackArray.filter(f => f === 'present').length;
+            return correctMatches >= correctCount && presentMatches >= presentCount;
+        });
+    }
+
+    function displayEntry(index) {
+        const { encodedWord, input, feedback } = filteredEntries[index];
+        tableContainer.innerHTML = `
+            <div class="table" id="table"></div>
+            <div class="info">Input: ${input}</div>
+            <div class="info feedback">${formatFeedback(feedback)}</div>
+        `;
+
+        const table = document.getElementById('table');
+        for (let i = 0; i < encodedWord.length; i++) {
+            const cell = document.createElement('div');
+            cell.textContent = encodedWord[i];
+            table.appendChild(cell);
+        }
+    }
+
+    function formatFeedback(feedback) {
+        return feedback.split(',').map(status => {
+            const span = document.createElement('span');
+            span.className = status;
+            span.textContent = status;
+            return span.outerHTML;
+        }).join(' ');
+    }
+
+    function updateButtons() {
+        prevBtn.disabled = currentIndex === 0;
+        nextBtn.disabled = currentIndex === filteredEntries.length - 1;
+    }
+</script>
+
+</body>
+</html>
